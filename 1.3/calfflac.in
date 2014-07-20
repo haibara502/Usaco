@@ -1,4 +1,0 @@
-sicis
-
-
-	  if (abs(terms[lv][lv2]) != 1 || (lv == 0 && lv2 == 0))
